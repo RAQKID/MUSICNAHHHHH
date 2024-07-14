@@ -1,7 +1,7 @@
 export const nodes = [
     {
-        name: "name of your node",
-        url: "url:port",
-        auth: "password of the node"
+        name: "Dante",
+        url: "37.114.42.191:7519",
+        auth: "danteisnttaken"
     }
 ];
